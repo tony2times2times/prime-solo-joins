@@ -1,1 +1,1 @@
-# prime-solo-joins
+SQL Joins solo homework assignment for prime. 
